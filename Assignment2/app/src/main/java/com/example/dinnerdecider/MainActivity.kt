@@ -9,7 +9,7 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
 
     var foods: ArrayList<String> =
-        arrayListOf("Hamburger", "Pizza", "Mexican", "American", "Chinese");
+        arrayListOf("Hamburger", "Pizza", "Mexican", "American", "Chinese", "Turkish");
     private lateinit var foodText: TextView;
     private lateinit var newFood: EditText;
     override fun onCreate(savedInstanceState: Bundle?) {
