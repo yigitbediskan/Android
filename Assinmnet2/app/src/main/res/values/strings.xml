@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="logo">main activity logo</string>
+    <string name="foodText">main  activity food text</string>
+    <string name="FoodTextDefaultValue">Hamburger</string>
+    <string name="editText">add new food....</string>
+    <string name="AddFoodButton">Add Food</string>
+    <string name="decideButton">DECIDE !</string>
+</resources>
